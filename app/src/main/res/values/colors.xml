@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <!-- Background color for the All-News category -->
+    <color name="category_all_news">#FD8E09</color>
+
+    <!-- Background color for the sport category -->
+    <color name="category_sport">#379237</color>
+    <color name="teal">#00695C</color>
+
+    <!-- Background color for the Technology category -->
+    <color name="category_Technology">#8800A0</color>
+
+    <!-- Background color for the policy category -->
+    <color name="category_policy">#16AFCA</color>
+
+    <color name="category_health">#D84315</color>
+
+
+    <color name="Pink">#4E342E</color>
+
+    <color name="tabTextAppearance">#A8A19E</color>
+
+
+
+</resources>

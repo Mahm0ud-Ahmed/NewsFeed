@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <string name="all_news">All News</string>
+    <string name="policy">Policy</string>
+    <string name="sport">Sport</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="networkError">connect to Internet...Please check your connection!</string>
+    <string name="serverError">The server could not be found. Please try again after some time!!</string>
+    <string name="authFailureError">Connect to Internet...Please check your connection!</string>
+    <string name="parseError">Parsing error! Please try again after some time!!</string>
+    <string name="noConnectionError">Connect to Internet...Please check your connection!</string>
+    <string name="timeoutError">Connection TimeOut! Please check your internet connection.</string>
+
+
+</resources>
